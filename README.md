@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=hnneul&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&text=hnneul&fontSize=70&animation=fadeIn)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e40463ac-44a9-4b9b-9913-c24fd7f9d42c"/>
