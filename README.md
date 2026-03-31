@@ -6,3 +6,5 @@
   <img src="https://render.gitanimals.org/lines/hnneul?pet-id=826764709700021978" width="1000" height="200"/>
   <img src="https://render.gitanimals.org/lines/hnneul?pet-id=826766480644218123" width="1000" height="200"/>
 </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=auto&width=435&lines=Hi+there!+I'm+hnneul+👋;Welcome+to+my+profile!)](https://git.io/typing-svg)
