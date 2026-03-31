@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&text=hnneul&fontSize=70&animation=fadeIn)
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e40463ac-44a9-4b9b-9913-c24fd7f9d42c"/>
   <br/>
@@ -16,6 +17,3 @@
   <img src="https://render.gitanimals.org/lines/hnneul?pet-id=826764709700021978" width="1000" height="200"/>
   <img src="https://render.gitanimals.org/lines/hnneul?pet-id=826766480644218123" width="1000" height="200"/>
 </a>
-
-
-![hnneul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hnneul&show_icons=true&theme=tokyonight)
