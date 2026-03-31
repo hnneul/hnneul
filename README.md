@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e40463ac-44a9-4b9b-9913-c24fd7f9d42c"/>
   <br/>
-  저의 강아지입니다 ! 🐶
+  저의 강아지입니다 ! 이름은 해준이 ~ 🐶
 </p>
 
 <p align="center">
