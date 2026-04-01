@@ -21,3 +21,7 @@
 </a>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+---
+
+![snake](https://github.com/hnneul/hnneul/blob/output/github-snake.svg)
